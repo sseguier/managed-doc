@@ -1,0 +1,16 @@
+site_name: Exoscale Managed Cloud documentation
+site_author: Exoscale
+site_description: documentation about managed cloud compute premium and backup premium products
+site_favicon: favicon.ico
+use_directory_urls: true
+
+theme: readthedocs
+repo_url: https://github.com/exoscale/managed-doc
+
+markdown_extensions:
+    toc:
+        permalink: True
+    admonition:
+
+copyright: Copyright &copy; 2015, <a href="https://www.exoscale.ch/managed-cloud/compute-premium/">Exoscale</a>.
+google_analytics: ['', '']
