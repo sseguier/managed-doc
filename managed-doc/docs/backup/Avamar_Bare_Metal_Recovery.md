@@ -38,24 +38,24 @@ Open a web browser and type the following URL:
 
 Select the version required for Windows x86 (32-bit or 64-bit) and downloaded "AvamarWindowsSystemRecover_x86"
 
-![Download ISO](/static/images/kb/BMR1.png)
+![Download ISO](img/BMR1.png)
 
 
 * Create an empty VM in VMware vCloud Director
 
-![Create VM vCloud Director](/static/images/kb/BMR-NewVirtualMachine.png)
+![Create VM vCloud Director](img/BMR-NewVirtualMachine.png)
 
 
 * Configure your Virtual Machine
 
-![Configure VM vCloud Director](/static/images/kb/BMR-CreateEmptyVM.png) 
+![Configure VM vCloud Director](img/BMR-CreateEmptyVM.png) 
 
 Hard disk size must be at least the same as the source (we recommend you to put the same size in order to avoid errors)
 
 
 * Connect VM to network
 
-![Connect VM to Organization Network](/static/images/kb/BMR-ConnectEmptyVMToNetwork.png)
+![Connect VM to Organization Network](img/BMR-ConnectEmptyVMToNetwork.png)
 
 VM must be connected to network and also to internet in order to permit the restore
  
@@ -67,16 +67,16 @@ Go to your Organization catalog and upload the ISO.
 
 PS: It must be on the same Virtual DataCenter as the target VM 
 
-![Add ISO to catalogue](/static/images/kb/BMR-UploadToCatalog.png)
+![Add ISO to catalogue](img/BMR-UploadToCatalog.png)
 
 
 * Mount the ISO
 
-![Mount ISO on VM](/static/images/kb/BMR-VMMountIso.png)
+![Mount ISO on VM](img/BMR-VMMountIso.png)
 
 * Power on your VM and open the console
 
-![Avamar System Recovery Wizard](/static/images/kb/BMR4.png)
+![Avamar System Recovery Wizard](img/BMR4.png)
 
 
 Click on Next button
@@ -84,7 +84,7 @@ Click on Next button
 
 * Select your Network Interface (select default Intel PRO/1000)
 
-![Select NIC](/static/images/kb/BMR5.png)
+![Select NIC](img/BMR5.png)
 
 
 Click on Next button
@@ -111,7 +111,7 @@ DNS Server Preferred: IP of your DNS Server (if exist)
 DNS Server Alternate: IP of your DNS Server (if exist)
 
 Example: 
-![Configure Network NIC](/static/images/kb/BMR6.png)
+![Configure Network NIC](img/BMR6.png)
 
 
 Click on Next button
@@ -119,7 +119,7 @@ Click on Next button
 
 * Check if the target VM own at least the same disk size as the source
 
-![Available Disks](/static/images/kb/BMR7.png)
+![Available Disks](img/BMR7.png)
 
 
 Click on Next button
@@ -142,7 +142,7 @@ Avamar Account: /ManagedCloud_xxx_xxx/YourAvamarClient
 - Replace x with your information
 - YourAvamarClient correspond to your VM name registered on your Avamar Domain
 
-![Select Server](/static/images/kb/BMR8.png)
+![Select Server](img/BMR8.png)
 
 
 Click on Next button. 
@@ -151,7 +151,7 @@ Click on Next button.
 * Select a backup in the list
 
 
-![Select Backup](/static/images/kb/BMR9.png)
+![Select Backup](img/BMR9.png)
 
 
 Click on Next button
@@ -161,7 +161,7 @@ Click on Next button
 
 PS: it's recommended to perform a quick format
 
-![Critical Volumes](/static/images/kb/BMR10.png)
+![Critical Volumes](img/BMR10.png)
 
 
 Click on Next button
@@ -169,7 +169,7 @@ Click on Next button
 
 * System Recovery Summary
 
-![Avamar Alarm](/static/images/kb/BMR11.png)
+![Avamar Alarm](img/BMR11.png)
 
 
 Click on Restore button and tick the case to confirm then click OK.
@@ -177,12 +177,12 @@ Click on Restore button and tick the case to confirm then click OK.
 
 * Recovery is being performed
 
-![Status](/static/images/kb/BMR12.png)
+![Status](img/BMR12.png)
 
 
 * Success Recovery
 
-![Sucess Recovery](/static/images/kb/BMR13.png)
+![Sucess Recovery](img/BMR13.png)
 
 
 Reboot to finalise the restore. Your new system will boot automatically.
@@ -193,7 +193,7 @@ Reboot to finalise the restore. Your new system will boot automatically.
 If you get this error. 
 
 
-![Get Critical Volume Results Error](/static/images/kb/BMR14.png)
+![Get Critical Volume Results Error](img/BMR14.png)
 
 
 

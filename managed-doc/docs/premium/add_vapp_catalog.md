@@ -6,11 +6,11 @@ To proceed please follow these instructions:
 
 ### Stop your vApp:
 
-![Stop vApp](/static/images/kb/add_vapp_catalog-1.png)
+![Stop vApp](img/add_vapp_catalog-1.png)
 
 ### Add the stopped vApp to catalog:
 
-![Add to catalog](/static/images/kb/add_vapp_catalog-2.png)
+![Add to catalog](img/add_vapp_catalog-2.png)
 
 ### Configure your vApp template:
 
@@ -19,8 +19,8 @@ To proceed please follow these instructions:
 * Select the Calatog
 * Select the type of Template: Identical copy = Clone, Customize VM setting -> VMtools are needed
 
-![Configure template](/static/images/kb/add_vapp_catalog-3.png)
+![Configure template](img/add_vapp_catalog-3.png)
 
 ### You will find the vApp Template in your Catalog:
 
-![Browse catalog](/static/images/kb/add_vapp_catalog-4.png)
+![Browse catalog](img/add_vapp_catalog-4.png)

@@ -10,7 +10,7 @@ community.
 
 Click on Policy in the Avamar console
 
-![Avamar Console Policy](/static/images/kb/ConfigureBackupPolicy1.png)
+![Avamar Console Policy](img/ConfigureBackupPolicy1.png)
 
 
 Select the Groups tab
@@ -19,7 +19,7 @@ Select the Avamar domain to which the group should belong and right click on it
 
 Right click on New Group
 
-![Avamar Policy](/static/images/kb/ConfigureBackupPolicy2.png)
+![Avamar Policy](img/ConfigureBackupPolicy2.png)
 
 
 Add the name of your group
@@ -28,40 +28,40 @@ Untick Disabled to immediately enable regularly scheduled client backups for the
 
 Click on Next 
 
-![New Group](/static/images/kb/ConfigureBackupPolicy3.png)
+![New Group](img/ConfigureBackupPolicy3.png)
 
 
 Select an existing dataset for the group
 
 Click on Next 
 
-![Existing Dataset](/static/images/kb/ConfigureBackupPolicy4.png)
+![Existing Dataset](img/ConfigureBackupPolicy4.png)
 
 
 Select an existing schedule for the group
 
 Click on Next 
 
-![Existing Schedule](/static/images/kb/ConfigureBackupPolicy5.png)
+![Existing Schedule](img/ConfigureBackupPolicy5.png)
 
 
 Select an existing retention policy for the group
 
 Click on Next 
 
-![Existing Policy](/static/images/kb/ConfigureBackupPolicy6.png)
+![Existing Policy](img/ConfigureBackupPolicy6.png)
 
 
 Select clients for your group (Hold CTRL to select numerous one)
 
 Click on Finish 
 
-![Select Clients](/static/images/kb/ConfigureBackupPolicy7.png)
+![Select Clients](img/ConfigureBackupPolicy7.png)
 
 
 New group policy appears in your domain group
 
-![New Group Policy](/static/images/kb/ConfigureBackupPolicy8.png)
+![New Group Policy](img/ConfigureBackupPolicy8.png)
 
 
 

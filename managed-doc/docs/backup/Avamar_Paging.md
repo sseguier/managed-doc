@@ -3,14 +3,14 @@
 
 From Avamar Console click on "Policy". 
 
-![Avamar Console Policy](/static/images/kb/AvamarPaging.png)
+![Avamar Console Policy](img/AvamarPaging.png)
 
 Select the "Clients" tab, right click on a client and click on Edit Client
 
-![Avamar Console Policy - Client](/static/images/kb/VCloudPaging1.png)
+![Avamar Console Policy - Client](img/VCloudPaging1.png)
 
 
-![Edit Client](/static/images/kb/VCloudPaging2.png)
+![Edit Client](img/VCloudPaging2.png)
 
 * In Paging area, select Manual and tick Enabled
 
@@ -37,14 +37,14 @@ Select the "Clients" tab, right click on a client and click on Edit Client
 
 In Managed Cloud user interface, select Administration tab
 
-![VCloud Director, Administration tab](/static/images/kb/VCloudPaging3.png)
+![VCloud Director, Administration tab](img/VCloudPaging3.png)
 
 
 * Select the tab, Org VDC Networks
 
 * Right click your Virtual Datacenter and select Configure Services
 
-![Select Configure Services](/static/images/kb/VCloudPaging4.png)
+![Select Configure Services](img/VCloudPaging4.png)
 
 
 * Click on NAT tab
@@ -53,7 +53,7 @@ In Managed Cloud user interface, select Administration tab
 
 * Click on Add DNAT button
 
-![Configure Services window](/static/images/kb/VCloudPaging5.png)
+![Configure Services window](img/VCloudPaging5.png)
 
 
 * Original(External) IP: your public IP
@@ -64,7 +64,7 @@ In Managed Cloud user interface, select Administration tab
 
 * Translated Port: 28002
 
-![Edit Destination NAT Rule](/static/images/kb/VCloudPaging6.png)
+![Edit Destination NAT Rule](img/VCloudPaging6.png)
 
 
 
@@ -75,7 +75,7 @@ The only one Incoming rule should be:
 
 Exoscale Avamar Server IP: 80.245.24.4
 
-![Incoming rule](/static/images/kb/VCloudPaging8.png)
+![Incoming rule](img/VCloudPaging8.png)
 
 
 

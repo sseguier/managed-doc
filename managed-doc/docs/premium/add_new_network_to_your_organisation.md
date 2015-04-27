@@ -11,7 +11,7 @@ In order to add a new network to you tenant or organization, follow this guide:
  
  * Via selfservice IpSec VPN directly from exorun premium interface
 
-![VPN connection](/static/images/kb/add_network-1.png)
+![VPN connection](img/add_network-1.png)
 
  * Via dedicated and reserved capacity link between zones. Contact sales@exoscale.ch to order.
 
@@ -55,7 +55,7 @@ Instances network assignment can be:
 
 NOTE: NAT or PAT features requires at least 1 additional public IP.
 
-![VPN connection](/static/images/kb/add_network-2.png)
+![VPN connection](img/add_network-2.png)
 
 ### Custom subnet range:
 
@@ -70,10 +70,10 @@ If you select a custom network setting you will get per zone:
     * DHCP feature: yes/no
     * If yes specify first and last IP
 
-![VPN connection](/static/images/kb/add_network-3.png)
+![VPN connection](img/add_network-3.png)
 
 ### Complex network setting:
 
 The following setups are possible. Please provide a basic schematic with all ranges along with your request.
 
-![VPN connection](/static/images/kb/add_network-4.png)
+![VPN connection](img/add_network-4.png)

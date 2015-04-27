@@ -8,17 +8,17 @@
 
 * Select your Linux distribution. (for instance CentOS 6)
 
-![Folder for Avamar Client Linux](/static/images/kb/AvamarClientLinuxUpdate1.png)
+![Folder for Avamar Client Linux](img/AvamarClientLinuxUpdate1.png)
 
 
 Click on "AvamarClient-linux" link to download the file
 
-![Download file for Avamar Client Linux](/static/images/kb/AvamarClientLinuxUpdate2.png)
+![Download file for Avamar Client Linux](img/AvamarClientLinuxUpdate2.png)
 
 
 Uninstall any previous version of Avamar Client for Linux software before you install the new version
 
-![Uninstall previous version of Avamar Client Linux](/static/images/kb/AvamarClientLinuxUpdate3.png)
+![Uninstall previous version of Avamar Client Linux](img/AvamarClientLinuxUpdate3.png)
 
 * "rpm –qa | grep Av" show the name of current Avamar package
 
@@ -33,14 +33,14 @@ For Ubuntu distribution:
 
 Add the new package in tmp folder
 
-![File in tmp folder](/static/images/kb/AvamarClientLinuxUpdate4.png)
+![File in tmp folder](img/AvamarClientLinuxUpdate4.png)
 
 
 * Install the Client Avamar on your virtual machine
 
 * "rpm –ih AvamarClient.rpm" to install Linux Client
 
-![Install the client](/static/images/kb/AvamarClientLinuxUpdate5.png)
+![Install the client](img/AvamarClientLinuxUpdate5.png)
 
 Commands for Ubuntu "dpkg –I AvamarLinux.deb"
 
@@ -51,12 +51,12 @@ Commands for Ubuntu "dpkg –I AvamarLinux.deb"
 
 * For instance: E_exosafeTEST (to replace with your Avamar Backup Domain provided by email)
 
-![Client Registration and Activation](/static/images/kb/AvamarClientLinuxUpdate6.png)
+![Client Registration and Activation](img/AvamarClientLinuxUpdate6.png)
 
 
 Type "service avagent status" to check the version of your package to compare with the one available on [http://exosafe.exoscale.ch]
 
-![Show package version](/static/images/kb/AvamarClientLinuxUpdate7.png)
+![Show package version](img/AvamarClientLinuxUpdate7.png)
 
 For Ubuntu 
 

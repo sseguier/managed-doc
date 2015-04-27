@@ -13,12 +13,12 @@ Open Avamar console
 
 Click on Tools tab and select Manage Reports
 
-![Avamar Console Policy](/static/images/kb/Report1.png)
+![Avamar Console Policy](img/Report1.png)
 
 
 Click on New button to create a report
 
-![Avamar Console Policy](/static/images/kb/Report2.png)
+![Avamar Console Policy](img/Report2.png)
 
 
 Add a Name, a Title and a Description to your report
@@ -34,38 +34,38 @@ In your case we have selected Activities
 
 Click on Ok button
 
-![Avamar Console Policy](/static/images/kb/Report3.png)
+![Avamar Console Policy](img/Report3.png)
 
 
 Select the report
 
 Click on Run button to launch the Run Report dialog box
 
-![Avamar Console Policy](/static/images/kb/Report4.png)
+![Avamar Console Policy](img/Report4.png)
 
 
 Select the date from and the date to for your report
 
 Click on Retrieve button
 
-![Avamar Console Policy](/static/images/kb/Report5.png)
+![Avamar Console Policy](img/Report5.png)
 
 
 The report is display
 
-![Avamar Console Policy](/static/images/kb/Report6.png)
+![Avamar Console Policy](img/Report6.png)
 
 
 * Export a report
 
 Click on Export button
 
-![Avamar Console Policy](/static/images/kb/Report7.png)
+![Avamar Console Policy](img/Report7.png)
 
 
 Add a file name to your export file and click on Save button
 
-![Avamar Console Policy](/static/images/kb/Report8.png)
+![Avamar Console Policy](img/Report8.png)
 
 
 Open Excel
@@ -76,36 +76,36 @@ Select Get External Data
 
 Click on From Text
 
-![Avamar Console Policy](/static/images/kb/Report9.png)
+![Avamar Console Policy](img/Report9.png)
 
 
 Select your export report and click on Import button
 
-![Avamar Console Policy](/static/images/kb/Report10.png)
+![Avamar Console Policy](img/Report10.png)
 
 
 Select Delimited (commas or tabs separate each field)
 
 Click on Next button
 
-![Avamar Console Policy](/static/images/kb/Report11.png)
+![Avamar Console Policy](img/Report11.png)
 
 
 Select Tab and Comma
 
 Click on Next button
 
-![Avamar Console Policy](/static/images/kb/Report12.png)
+![Avamar Console Policy](img/Report12.png)
 
 
 Click on Finish button
 
-![Avamar Console Policy](/static/images/kb/Report13.png)
+![Avamar Console Policy](img/Report13.png)
 
 
 Report is displayed in Excel
 
-![Avamar Console Policy](/static/images/kb/Report14.png)
+![Avamar Console Policy](img/Report14.png)
 
 
 

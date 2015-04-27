@@ -11,41 +11,41 @@
 
 * Click on the related link to proceed, as shown below (64 bit for instance )
 
-![Folder for Avamar Client Exchange](/static/images/kb/InstallExchangeClient1.png)
+![Folder for Avamar Client Exchange](img/InstallExchangeClient1.png)
 
 
 * Click on AvamarExchangeVSS link to download the file
 
-![Download file for Avamar Client Exchange](/static/images/kb/InstallExchangeClient2.png)
+![Download file for Avamar Client Exchange](img/InstallExchangeClient2.png)
 
 
 * Launch *.msi file downloaded
 
 * After that, click on Next 
 
-![EMC Avamar Backup Plug-in for Exchange VSS Setup](/static/images/kb/InstallExchangeClient3.png)
+![EMC Avamar Backup Plug-in for Exchange VSS Setup](img/InstallExchangeClient3.png)
 
 
 * Click on the red cross to install the GLR feature
 
 * Select "Will be installed on local hard drive"
 
-![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup](/static/images/kb/InstallExchangeClient4.png)
+![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup](img/InstallExchangeClient4.png)
 
 
 * Click on Next 
 
-![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup-Next](/static/images/kb/InstallExchangeClient5.png)
+![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup-Next](img/InstallExchangeClient5.png)
 
 
 * Click on Install 
 
-![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup-Install](/static/images/kb/InstallExchangeClient6.png)
+![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup-Install](img/InstallExchangeClient6.png)
 
 
 * Click on Finish button to close the wizard
 
-![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup-Finish](/static/images/kb/InstallExchangeClient7.png)
+![Ready to install EMC Avamar Backup plug-in for Exchange VSS Setup-Finish](img/InstallExchangeClient7.png)
 
 
 [http://exosafe.exoscale.ch]: http://exosafe.exoscale.ch

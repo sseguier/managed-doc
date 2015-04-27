@@ -9,17 +9,17 @@
 
 * On Windows system tray, Right click on the Avamar Client
 
-![Right click Avamar Client](/static/images/kb/RegisterClientAgent1.png)
+![Right click Avamar Client](img/RegisterClientAgent1.png)
 
 
 * Click "Manage" and select "Activate Client"
 
-![Manege-Activate Client](/static/images/kb/RegisterClientAgent2.png)
+![Manege-Activate Client](img/RegisterClientAgent2.png)
 
 
 * Add Administration Server Address and Client Domain
 
-![Active Client Setup](/static/images/kb/RegisterClientAgent3.png)
+![Active Client Setup](img/RegisterClientAgent3.png)
 
 
 * Administration Server: exosafe.exoscale.ch
@@ -30,12 +30,12 @@ For example
 
 * Click on Activate button
 
-![Active Client Setup Full](/static/images/kb/RegisterClientAgent4.png)
+![Active Client Setup Full](img/RegisterClientAgent4.png)
 
 
 * Click on OK button
 
-![Client Activation Complete](/static/images/kb/RegisterClientAgent5.png)
+![Client Activation Complete](img/RegisterClientAgent5.png)
 
 
 

@@ -8,5 +8,5 @@ The aim of this KB is to allow communication between your Avamar agent and our C
 
 * Add "ingress" rules from 80.245.24.4/32 for each ports as show below:
 
-![Add rules for backup and browsing](/static/images/kb/ConfigureAvamarPorts.png)
+![Add rules for backup and browsing](img/ConfigureAvamarPorts.png)
 

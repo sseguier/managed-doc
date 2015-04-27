@@ -8,11 +8,11 @@ To proceed please follow these instructions:
 * Click on "Media" or "vApp Templates" tab
 * Click on first icon (drive with green arrow)
 
-![Organization's Catalog](/static/images/kb/organization_catalog.png)
+![Organization's Catalog](img/organization_catalog.png)
 
 A window "Upload Media" will pop up 
 
-![Upload Media](/static/images/kb/Upload_media.png)
+![Upload Media](img/Upload_media.png)
 
 * Click on "Browse"
 
@@ -20,35 +20,35 @@ Depending on your JAVA security parameters, a warning will appear from your brow
 
 * Click "Allow" and set the authorizations as shown bellow
 
-![JAVA authorizations1](/static/images/kb/Java_authorisation1.png)
+![JAVA authorizations1](img/Java_authorisation1.png)
 
-![JAVA authorizations2](/static/images/kb/Java_authorisation2.png)
+![JAVA authorizations2](img/Java_authorisation2.png)
 
 A Warning will pop up
 
 * Click "Run"
 
-![JAVA authorizations3](/static/images/kb/Java_authorisation3.png)
+![JAVA authorizations3](img/Java_authorisation3.png)
 
 
 A Warning will pop up
 
 * Click "Allow"
 
-![JAVA authorizations4](/static/images/kb/Java_authorisation4.png)
+![JAVA authorizations4](img/Java_authorisation4.png)
 
 
 A Warning will pop up
 
 * Click "Don't block"
 
-![JAVA authorizations5](/static/images/kb/Java_authorisation5.png)
+![JAVA authorizations5](img/Java_authorisation5.png)
 
 A Window "Please choose a file to upload" will pop up
 
 * Browse your computer and click upload
 
-![Upload browsing](/static/images/kb/Upload_browsing.png)
+![Upload browsing](img/Upload_browsing.png)
 
 
 * Set a Name
@@ -60,6 +60,6 @@ A Window "Please choose a file to upload" will pop up
 
 A transfer progress window will pop up
 
-![transfer window](/static/images/kb/Transfer_progress.png)
+![transfer window](img/Transfer_progress.png)
 
 PS: Exoscale provide vApp Templates and ISO, check it on the public Catalog. You are able to use it by performing a right click and select "Copy to Catalog"
