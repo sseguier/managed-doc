@@ -22,4 +22,5 @@ You need Python and pip as a requirement for this project.
 You can then start modifying documentation stored under `docs/`
 folder.
 
-
+On Windows we recommend that you install Python and pip 
+with [Chocolatey](https://chocolatey.org/).
