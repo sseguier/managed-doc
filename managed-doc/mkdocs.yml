@@ -1,5 +1,6 @@
 site_name: Exoscale Managed Cloud documentation
 site_author: Exoscale
+site_url: https://kb.premium.exoscale.ch
 site_description: documentation about managed cloud compute premium and backup premium products
 site_favicon: favicon.ico
 use_directory_urls: true
@@ -13,4 +14,4 @@ markdown_extensions:
     admonition:
 
 copyright: Copyright &copy; 2015, <a href="https://www.exoscale.ch/managed-cloud/compute-premium/">Exoscale</a>.
-google_analytics: ['', '']
+google_analytics: ['UA-26690043-10', 'kb.premium.exoscale.ch']
